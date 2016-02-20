@@ -27,3 +27,10 @@ h1 a, h2 a, h3 a {
   max-width: 800px;
   margin: 0 auto;
 }
+
+.gray {
+  color: #666;
+  font-size: 0.8em;
+  font-weight: 300;
+  margin-left: 5px;
+}
