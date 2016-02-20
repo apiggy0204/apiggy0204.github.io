@@ -23,9 +23,17 @@ h1 a, h2 a, h3 a {
   text-decoration: none;
 }
 
+.flex-box {
+  display: flex;
+  display: -webkit-flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
 .resume {
   max-width: 800px;
   margin: 0 auto;
+  padding: 0 5%;
 }
 
 .gray {
