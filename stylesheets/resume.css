@@ -19,7 +19,7 @@ h1, a {
   color: #03A9F4;
 }
 
-h1 a, h2 a, h3 a {
+h1 a, h2 a, h3 a, h4 a {
   text-decoration: none;
 }
 
@@ -34,6 +34,10 @@ h1 a, h2 a, h3 a {
   max-width: 800px;
   margin: 0 auto;
   padding: 0 5%;
+}
+
+.darkgray {
+  color: gray;
 }
 
 .gray {
